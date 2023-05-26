@@ -34,12 +34,6 @@ README.md: The file you are currently reading, providing an overview of the repo
 
 Usage
 
-To replicate the preprocessing, cleaning, analysis, and visualization steps:
-
-Clone the repository to your local machine: git clone https://github.com/niteshkumar0205/DE_FINALPROJECT.
-
-Ensure you have Python and the required libraries installed.
-
 Run the DE_FINAL_PROJECT.ipynb notebook to preprocess and clean the dataset.
 
 Import the cleaned dataset, complete.csv, into a PostgreSQL database using the database.sql script.
