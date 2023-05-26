@@ -1,4 +1,4 @@
-##FIFA 2018 Dataset Preprocessing and Analysis
+FIFA 2018 Dataset Preprocessing and Analysis
 
 This repository contains the FIFA 2018 dataset, which consists of statistics and playing attributes of all players in the full version of FIFA 18, a popular football simulation video game developed by Electronic Arts (EA Sports). The dataset has been preprocessed, cleaned, and analyzed using Python. The clean data has then been imported into a PostgreSQL database and visualized using Power BI.
 
