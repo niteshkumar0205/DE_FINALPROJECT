@@ -28,11 +28,7 @@ collection.csv: The original dataset containing FIFA 2018 player information.
 
 complete.csv: The cleaned dataset ready for analysis and import to PostgreSQL.
 
-preprocessing.ipynb: Jupyter Notebook containing the Python code for preprocessing and cleaning the dataset.
-
-analysis.ipynb: Jupyter Notebook containing the Python code for analyzing the cleaned dataset.
-
-database.sql: SQL script containing the necessary commands to create the PostgreSQL database and import the cleaned data.
+DE_FINAL_PROJECT.ipynb: Jupyter Notebook containing the Python code for preprocessing and cleaning the dataset.
 
 README.md: The file you are currently reading, providing an overview of the repository.
 
