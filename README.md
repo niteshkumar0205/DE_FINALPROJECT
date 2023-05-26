@@ -39,11 +39,3 @@ Run the DE_FINAL_PROJECT.ipynb notebook to preprocess and clean the dataset.
 Import the cleaned dataset, complete.csv, into a PostgreSQL database using the database.sql script.
 
 Connect Power BI to the PostgreSQL database and create visualizations based on your analysis requirements.
-
-
-Acknowledgements
-Electronic Arts (EA Sports) for providing the FIFA 18 dataset.
-
-The open-source community for developing and maintaining the Python libraries used in this project.
-
-The creators of PostgreSQL and Power BI for their powerful tools.
