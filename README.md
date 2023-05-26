@@ -36,7 +36,7 @@ Usage
 
 To replicate the preprocessing, cleaning, analysis, and visualization steps:
 
-Clone the repository to your local machine: git clone https://github.com/your-username/your-repository.git.
+Clone the repository to your local machine: git clone https://github.com/niteshkumar0205/DE_FINALPROJECT.
 
 Ensure you have Python and the required libraries installed.
 
