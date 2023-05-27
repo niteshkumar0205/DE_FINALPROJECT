@@ -22,6 +22,8 @@ Power BI Visualization
 
 To visualize the data and create interactive dashboards, Power BI was utilized. Power BI is a business analytics service provided by Microsoft that enables users to visualize and share insights from various data sources. By connecting to the PostgreSQL database, the FIFA 2018 player data can be transformed into visually appealing and informative dashboards, providing a deeper understanding of the dataset.
 
+![image](https://github.com/niteshkumar0205/DE_FINALPROJECT/assets/74721277/d8972e9d-a367-4537-9bc7-ca9825374c36)
+
 Repository Contents
 
 collection.csv: The original dataset containing FIFA 2018 player information.
